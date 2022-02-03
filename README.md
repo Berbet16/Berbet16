@@ -9,6 +9,11 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning  Python, Arduino, .NET
 - 📫 How to reach me: bernasoylu16@gmail.com
 
-
+## 📌 GitHub Stats And Top Languages
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Berbet16&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+
+[![Linkedin Badge](https://img.shields.io/badge/Berbet16-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bet%C3%BCl-berna-soylu-9987b41b7/)
