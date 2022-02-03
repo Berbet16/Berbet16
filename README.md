@@ -20,7 +20,7 @@ Here are some ideas to get you started: Here are some ideas to get you started:
 - 🌱 I’m currently learning  Python, Arduino, .NET
 - 📫 How to reach me: bernasoylu16@gmail.com
 
-## 📌 GitHub Stats And Top Languages
+## 📌 GitHub Stats 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Berbet16&show_icons=true&theme=radical)
 
