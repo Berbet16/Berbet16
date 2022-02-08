@@ -21,7 +21,7 @@ Here are some ideas to get you started: Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=Berbet16) 
 
-- 🔭 I’m currently working on **patika.dev**
+- 🔭 I’m currently working on **Patika.dev and Global Al Hub**
 
 - 🌱 I’m currently learning **Arduino, .NET, Python**
 
