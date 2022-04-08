@@ -54,5 +54,3 @@ Here are some ideas to get you started: Here are some ideas to get you started:
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
 
- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Berbet16&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Berbet16&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
