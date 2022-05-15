@@ -26,7 +26,7 @@ Here are some ideas to get you started: Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Patika.dev and Global Al Hub**
 
-- 🌱 I’m currently learning **Arduino, .NET, Python**
+- 🌱 I’m currently learning **Arduino, .NET, Python, C#**
 
 - 📫 How to reach me **bernasoylu16@gmail.com**
 
