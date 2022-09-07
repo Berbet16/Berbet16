@@ -20,7 +20,7 @@ Here are some ideas to get you started: Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Betül Berna SOYLU</h1>
-<h3 align="center">ADNAN MENDERES UNIVERSITY COMPUTER ENGINEERING STUDENT</h3>
+<h3 align="center">PROJECT CONSULTANT</h3>
 
 ![](https://komarev.com/ghpvc/?username=Berbet16) 
 
